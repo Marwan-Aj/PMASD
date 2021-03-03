@@ -1,0 +1,7 @@
+index;filepath;id;label;machine
+0;./Fichiers_son/ToyCar/anomaly_id_01_00000011.wav;1;1;ToyCar
+1;./Fichiers_son/ToyCar/anomaly_id_02_00000148.wav;2;1;ToyCar
+2;./Fichiers_son/ToyCar/anomaly_id_04_00000037.wav;4;1;ToyCar
+3;./Fichiers_son/ToyCar/normal_id_01_00000237.wav;1;0;ToyCar
+4;./Fichiers_son/ToyCar/normal_id_02_00000132.wav;2;0;ToyCar
+5;./Fichiers_son/ToyCar/normal_id_04_00000092.wav;4;0;ToyCar

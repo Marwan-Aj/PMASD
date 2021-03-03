@@ -1,0 +1,7 @@
+index;filepath;id;label;machine
+0;./Fichiers_son/fan/anomaly_id_02_00000167.wav;2;1;fan
+1;./Fichiers_son/fan/anomaly_id_04_00000142.wav;4;1;fan
+2;./Fichiers_son/fan/anomaly_id_06_00000066.wav;6;1;fan
+3;./Fichiers_son/fan/normal_id_02_00000085.wav;2;0;fan
+4;./Fichiers_son/fan/normal_id_04_00000039.wav;4;0;fan
+5;./Fichiers_son/fan/normal_id_06_00000035.wav;6;0;fan

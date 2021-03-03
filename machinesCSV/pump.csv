@@ -1,0 +1,7 @@
+index;filepath;id;label;machine
+0;./Fichiers_son/pump/anomaly_id_00_00000027.wav;0;1;pump
+1;./Fichiers_son/pump/anomaly_id_04_00000094.wav;4;1;pump
+2;./Fichiers_son/pump/anomaly_id_06_00000007.wav;6;1;pump
+3;./Fichiers_son/pump/normal_id_02_00000036.wav;2;0;pump
+4;./Fichiers_son/pump/normal_id_04_00000056.wav;4;0;pump
+5;./Fichiers_son/pump/normal_id_06_00000012.wav;6;0;pump

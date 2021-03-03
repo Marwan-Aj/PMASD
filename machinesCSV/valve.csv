@@ -1,0 +1,7 @@
+index;filepath;id;label;mse_calcul;seuil;machine
+0;./Fichiers_son/valve/normal_id_00_00000031.wav;0;0;0.305006206035614;0.31110253;valve
+1;./Fichiers_son/valve/normal_id_00_00000005.wav;0;0;0.31616079807281494;0.31110253;valve
+2;./Fichiers_son/valve/normal_id_00_00000025.wav;0;0;0.2941822111606598;0.31110253;valve
+3;./Fichiers_son/valve/anomaly_id_00_00000019.wav;0;1;0.32067936658859253;0.31110253;valve
+4;./Fichiers_son/valve/anomaly_id_00_00000002.wav;0;1;0.3884458541870117;0.31110253;valve
+5;./Fichiers_son/valve/anomaly_id_00_00000005.wav;0;1;0.31495755910873413;0.31110253;valve

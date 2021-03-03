@@ -1,0 +1,7 @@
+index;filepath;id;label;machine
+0;./Fichiers_son/ToyConveyor/anomaly_id_01_00000005.wav;1;1;ToyConveyor
+1;./Fichiers_son/ToyConveyor/anomaly_id_02_00000073.wav;2;1;ToyConveyor
+2;./Fichiers_son/ToyConveyor/anomaly_id_03_00000097.wav;3;1;ToyConveyor
+3;./Fichiers_son/ToyConveyor/normal_id_01_00000134.wav;1;0;ToyConveyor
+4;./Fichiers_son/ToyConveyor/normal_id_02_00000033.wav;2;0;ToyConveyor
+5;./Fichiers_son/ToyConveyor/normal_id_03_00000085.wav;3;0;ToyConveyor
