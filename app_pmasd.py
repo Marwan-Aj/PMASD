@@ -142,7 +142,7 @@ def main():
                 "[Marwan AJEM](https://www.linkedin.com/in/marwan-ajem/)\n"
                 "[Nathalie BACH](https://www.linkedin.com/in/nathalie-bach-b03145196/)\n"
                 "[Sara FATEN DIAZ](https://www.linkedin.com/in/sarafatendiaz/)\n\n"
-                "Voir la keynote : [pdf](https://drive.google.com/file/d/1KA1pYpiWdMhygwxALc3qgkppo5B2L4yx/view)"
+                "Voir la keynote : [pdf](https://drive.google.com/file/d/1as4albzFlIQ7_Dvj-M2cYooAaVeNbdtj/view?usp=sharing)"
                 )
     
     if page == "Datasets":
